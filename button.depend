@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1473381092 source:z:\system\documents\programacion\arduino\button\button.ino
+	<Arduino.h>
+	"determinebitport.h"
+	"xbutton.h"
+
+1371036702 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362990550 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362990550 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371036734 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362990550 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371036430 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362990550 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362990550 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362990550 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362990550 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362990550 z:\system\downloads\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1473251035 source:z:\system\documents\programacion\arduino\button\xbutton.cpp
+	<Arduino.h>
+	<xbutton.h>
+
+1473250984 z:\system\documents\programacion\arduino\button\xbutton.h
+	<Arduino.h>
+
+1473129863 source:z:\system\documents\programacion\arduino\button\determinebitport.cpp
+
+1473381054 z:\system\documents\programacion\arduino\button\determinebitport.h
+	<arduino.h>
+
+1474782522 source:z:\system\documents\programacion\arduino\buttontres-\button.ino
+	<Arduino.h>
+	"determinebitport.h"
+	"xbutton.h"
+
+1474531825 z:\system\documents\programacion\arduino\buttontres-\determinebitport.h
+	<arduino.h>
+
+1474781974 z:\system\documents\programacion\arduino\buttontres-\xbutton.h
+	<Arduino.h>
+
+1473129863 source:z:\system\documents\programacion\arduino\buttontres-\determinebitport.cpp
+
+1474782291 source:z:\system\documents\programacion\arduino\buttontres-\xbutton.cpp
+	<Arduino.h>
+	<xbutton.h>
+
